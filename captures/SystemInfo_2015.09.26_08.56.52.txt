@@ -1,0 +1,87 @@
+Applications Graphics Acceleration Info:
+Uptime: 10375687 Realtime: 10375687
+
+** Graphics info for pid 17330 [com.example.ormlitedemo] **
+
+Recent DisplayList operations
+Save
+ClipRect
+DrawDisplayList
+  DrawPatch
+  DrawDisplayList
+    Save
+    ClipRect
+    DrawDisplayList
+      DrawDisplayList
+        Save
+        ClipRect
+        DrawText
+        RestoreToCount
+    RestoreToCount
+RestoreToCount
+DrawPatch
+DrawPatch
+DrawText
+DrawPatch
+Save
+ClipRect
+DrawDisplayList
+  DrawPatch
+  DrawDisplayList
+    Save
+    ClipRect
+    DrawDisplayList
+      DrawDisplayList
+        Save
+        ClipRect
+        DrawText
+        RestoreToCount
+    RestoreToCount
+RestoreToCount
+DrawPatch
+DrawPatch
+DrawText
+DrawPatch
+Save
+ClipRect
+DrawDisplayList
+  DrawPatch
+  DrawDisplayList
+    Save
+    ClipRect
+    DrawDisplayList
+    RestoreToCount
+RestoreToCount
+DrawPatch
+DrawPatch
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache            99904 / 25165824
+  LayerCache                  0 / 16777216
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache                   0 / 10485760
+  TextDropShadowCache         0 /  2097152
+  PatchCache               2496 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /       16
+Total memory usage:
+  626688 bytes, 0.60 MB
+
+Profile data in ms:
+
+	com.example.ormlitedemo/com.example.ormlitedemo.MainActivity/android.view.ViewRootImpl@5285bf48
+View hierarchy:
+
+  com.example.ormlitedemo/com.example.ormlitedemo.MainActivity/android.view.ViewRootImpl@5285bf48
+  18 views, 1.47 kB of display lists, 3 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        18
+Total DisplayList:  1.47 kB
+

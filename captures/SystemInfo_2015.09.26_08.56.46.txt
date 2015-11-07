@@ -1,0 +1,35 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        52a55730 com.example.ormlitedemo/.MainActivity filter 52a557e8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Key Set Manager:
+  [com.example.ormlitedemo]
+      Signing KeySets: 4
+
+Packages:
+  Package [com.example.ormlitedemo] (52a83e10):
+    userId=10075 gids=[]
+    pkg=Package{52a550e8 com.example.ormlitedemo}
+    codePath=/data/app/com.example.ormlitedemo-1.apk
+    resourcePath=/data/app/com.example.ormlitedemo-1.apk
+    nativeLibraryPath=/data/app-lib/com.example.ormlitedemo-1
+    versionCode=1 targetSdk=19
+    versionName=1.0
+    applicationInfo=ApplicationInfo{52a55140 com.example.ormlitedemo}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/com.example.ormlitedemo
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesLibraries:
+      android.test.runner
+    usesLibraryFiles:
+      /system/framework/android.test.runner.jar
+    timeStamp=2015-09-25 20:45:11
+    firstInstallTime=2015-09-25 20:45:11
+    lastUpdateTime=2015-09-25 20:45:11
+    signatures=PackageSignatures{529ff324 [52a13994]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true blocked=false stopped=false notLaunched=false enabled=0
